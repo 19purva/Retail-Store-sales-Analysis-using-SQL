@@ -12,9 +12,9 @@ The primary objectives of this project are:
 3.To derive actionable insights about customer behavior, product performance, and sales trends.  
 4.To identify and resolve issues in the dataset for enhanced data integrity and usability.
 
-Dataset
+## Dataset
 
-File Name: retail_store_sales.csv
+<strong>File Name: </strong> retail_store_sales.csv
 
 The dataset contains 12,575 rows and 11 columns, representing sales transactions. The following attributes are included:
 
