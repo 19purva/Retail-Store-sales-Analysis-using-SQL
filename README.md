@@ -14,7 +14,7 @@ The primary objectives of this project are:
 
 ## Dataset
 
-<strong>File Name: </strong> retail_store_sales.csv
+<strong>File Name: </strong> https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-data-cleaning
 
 <strong>The dataset contains 11,362 rows and 11 columns, representing sales transactions. The following attributes are included:</strong>
 
@@ -29,3 +29,7 @@ The primary objectives of this project are:
 <strong>Location:</strong>  The transaction location (e.g., In-store, Online). May contain missing values.  
 <strong>Transaction_Date:</strong>  The date of the transaction. Always valid.  
 <strong>Discount_Applied:</strong>  Indicates if a discount was applied (True, False, or NULL).
+
+## Conclusion
+The Retail Store Sales Analysis project demonstrates the importance of data cleaning, validation, and SQL-based analysis for deriving meaningful insights from complex datasets. By addressing issues such as missing values, inconsistencies, and invalid entries, the dataset's integrity was enhanced, enabling accurate and actionable analytics. This project also highlights how advanced SQL queries can uncover customer behaviors, product trends, and revenue patterns to support data-driven decision-making.
+
