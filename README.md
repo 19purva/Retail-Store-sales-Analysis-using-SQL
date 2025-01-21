@@ -16,13 +16,11 @@ The primary objectives of this project are:
 
 <strong>File Name: </strong> retail_store_sales.csv
 
-The dataset contains 12,575 rows and 11 columns, representing sales transactions. The following attributes are included:
+<strong>The dataset contains 11,362 rows and 11 columns, representing sales transactions. The following attributes are included:</strong>
 
-Transaction_ID: A unique identifier for each transaction (e.g., TXN_1234567).
-
-Customer_ID: A unique identifier for each customer (e.g., CUST_01).
-
-Category: The product category (e.g., Food, Furniture).
+<strong>Transaction_ID:</strong> A unique identifier for each transaction (e.g., TXN_1234567).  
+<strong>Customer_ID:</strong> A unique identifier for each customer (e.g., CUST_01).  
+<strong>Category:</strong> The product category (e.g., Food, Furniture).
 
 Item: The name of the purchased item. May contain missing values.
 
