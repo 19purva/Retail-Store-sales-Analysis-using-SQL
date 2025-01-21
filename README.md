@@ -22,7 +22,7 @@ The primary objectives of this project are:
 <strong>Customer_ID:</strong> A unique identifier for each customer (e.g., CUST_01).  
 <strong>Category:</strong> The product category (e.g., Food, Furniture).  
 <strong>Item:</strong>  The name of the purchased item. May contain missing values.  
-<strong>Price_Per_Unit:</strong>  The price of a single unit. May contain missing or NULL values. 
+<strong>Price_Per_Unit:</strong>  The price of a single unit. May contain missing or NULL values.   
 <strong>Quantity:</strong>  The number of units purchased. May contain missing or NULL values.  
 <strong>Total_Spent:</strong>  The total amount spent, calculated as Price_Per_Unit * Quantity. May contain inconsistencies.  
 <strong>Payment_Method: </strong> The payment method used (e.g., Cash, Credit Card). May contain invalid values.  
