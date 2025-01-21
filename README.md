@@ -20,20 +20,12 @@ The primary objectives of this project are:
 
 <strong>Transaction_ID:</strong> A unique identifier for each transaction (e.g., TXN_1234567).  
 <strong>Customer_ID:</strong> A unique identifier for each customer (e.g., CUST_01).  
-<strong>Category:</strong> The product category (e.g., Food, Furniture).
-
-Item: The name of the purchased item. May contain missing values.
-
-Price_Per_Unit: The price of a single unit. May contain missing or NULL values.
-
-Quantity: The number of units purchased. May contain missing or NULL values.
-
-Total_Spent: The total amount spent, calculated as Price_Per_Unit * Quantity. May contain inconsistencies.
-
-Payment_Method: The payment method used (e.g., Cash, Credit Card). May contain invalid values.
-
-Location: The transaction location (e.g., In-store, Online). May contain missing values.
-
-Transaction_Date: The date of the transaction. Always valid.
-
-Discount_Applied: Indicates if a discount was applied (True, False, or NULL).
+<strong>Category:</strong> The product category (e.g., Food, Furniture).  
+<strong>Item:</strong>  The name of the purchased item. May contain missing values.  
+<strong>Price_Per_Unit:</strong>  The price of a single unit. May contain missing or NULL values. 
+<strong>Quantity:</strong>  The number of units purchased. May contain missing or NULL values.  
+<strong>Total_Spent:</strong>  The total amount spent, calculated as Price_Per_Unit * Quantity. May contain inconsistencies.  
+<strong>Payment_Method: </strong> The payment method used (e.g., Cash, Credit Card). May contain invalid values.  
+<strong>Location:</strong>  The transaction location (e.g., In-store, Online). May contain missing values.  
+<strong>Transaction_Date:</strong>  The date of the transaction. Always valid.  
+<strong>Discount_Applied:</strong>  Indicates if a discount was applied (True, False, or NULL).
